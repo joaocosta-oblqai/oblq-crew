@@ -14,7 +14,7 @@ OBLQ Crew is invite-only: it is for OBLQAI customers. To get access, write to
 | Android phone | [OBLQ-Crew-Android.apk](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Android.apk) |
 | Mac (Apple silicon: M1 or newer) | [OBLQ-Crew-Mac.dmg](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Mac.dmg) |
 | iPhone | Coming to the App Store. Meanwhile, ask us for a TestFlight invite. |
-| Windows | Coming soon. |
+| Windows (10 or 11, 64-bit) | [OBLQ-Crew-Windows.exe](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Windows.exe) |
 
 These links always give you the newest version.
 
@@ -43,7 +43,13 @@ invite.
 
 ### Windows
 
-Coming soon.
+1. Download **OBLQ-Crew-Windows.exe** and open it.
+2. The first time only: the installer is not yet signed, so Windows shows *Windows protected your
+   PC*. Click **More info**, then **Run anyway**.
+3. Follow the installer. It installs for your user only, so it doesn't ask for an administrator.
+   If your PC doesn't have Microsoft's WebView2 yet, the installer downloads it (keep the internet
+   on).
+4. Open **OBLQ Crew** from the Start menu.
 
 ### Updating
 
@@ -70,7 +76,7 @@ para **[joao.costa@oblqai.com](mailto:joao.costa@oblqai.com)**.
 | Telemóvel Android | [OBLQ-Crew-Android.apk](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Android.apk) |
 | Mac (Apple silicon: M1 ou mais recente) | [OBLQ-Crew-Mac.dmg](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Mac.dmg) |
 | iPhone | Em breve na App Store. Entretanto, peça-nos um convite para o TestFlight. |
-| Windows | Brevemente. |
+| Windows (10 ou 11, 64 bits) | [OBLQ-Crew-Windows.exe](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Windows.exe) |
 
 Estas ligações dão-lhe sempre a versão mais recente.
 
@@ -102,7 +108,12 @@ convite para o TestFlight.
 
 ### Windows
 
-Brevemente.
+1. Transfira o **OBLQ-Crew-Windows.exe** e abra-o.
+2. Só da primeira vez: o instalador ainda não está assinado, por isso o Windows mostra *O Windows
+   protegeu o seu PC*. Clique em **Mais informações** e depois em **Executar mesmo assim**.
+3. Siga o instalador. Instala só para o seu utilizador, por isso não pede administrador. Se o PC
+   ainda não tiver o WebView2 da Microsoft, o instalador transfere-o (mantenha a internet ligada).
+4. Abra o **OBLQ Crew** a partir do menu Iniciar.
 
 ### Atualizar
 
