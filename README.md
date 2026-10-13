@@ -12,11 +12,11 @@ OBLQ Crew is invite-only: it is for OBLQAI customers. To get access, write to
 | Device | Download |
 |---|---|
 | Android phone | [OBLQ-Crew-Android.apk](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Android.apk) |
-| Mac (Apple silicon: M1 or newer) | [OBLQ-Crew-Mac.dmg](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Mac.dmg) |
+| Mac (Apple silicon: M1 or newer) | [OBLQ-Crew-Mac.dmg](https://github.com/joaocosta-oblqai/oblq-crew/releases/download/v1.0.1/OBLQ-Crew-Mac.dmg) |
 | iPhone | Coming to the App Store. Meanwhile, ask us for a TestFlight invite. |
-| Windows (10 or 11, 64-bit) | [OBLQ-Crew-Windows.exe](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Windows.exe) |
+| Windows (10 or 11, 64-bit) | [OBLQ-Crew-Windows.exe](https://github.com/joaocosta-oblqai/oblq-crew/releases/download/v1.0.1/OBLQ-Crew-Windows.exe) |
 
-These links always give you the newest version.
+Android downloads the latest signed APK. The Mac and Windows links point to their latest available installers (1.0.1).
 
 ### Android
 
@@ -74,9 +74,9 @@ para **[joao.costa@oblqai.com](mailto:joao.costa@oblqai.com)**.
 | Dispositivo | Transferir |
 |---|---|
 | Telemóvel Android | [OBLQ-Crew-Android.apk](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Android.apk) |
-| Mac (Apple silicon: M1 ou mais recente) | [OBLQ-Crew-Mac.dmg](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Mac.dmg) |
+| Mac (Apple silicon: M1 ou mais recente) | [OBLQ-Crew-Mac.dmg](https://github.com/joaocosta-oblqai/oblq-crew/releases/download/v1.0.1/OBLQ-Crew-Mac.dmg) |
 | iPhone | Em breve na App Store. Entretanto, peça-nos um convite para o TestFlight. |
-| Windows (10 ou 11, 64 bits) | [OBLQ-Crew-Windows.exe](https://github.com/joaocosta-oblqai/oblq-crew/releases/latest/download/OBLQ-Crew-Windows.exe) |
+| Windows (10 ou 11, 64 bits) | [OBLQ-Crew-Windows.exe](https://github.com/joaocosta-oblqai/oblq-crew/releases/download/v1.0.1/OBLQ-Crew-Windows.exe) |
 
 Estas ligações dão-lhe sempre a versão mais recente.
 
